@@ -3,3 +3,4 @@ adding some another line june 27
 edit from remote
 this is another edit from remote
 other other remote change
+trying to use stash
